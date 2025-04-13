@@ -2,6 +2,7 @@
 
 # 🧮 Ultimate Shell Calculator | 终极 Shell 计算器
 
+[![Shell Version](https://img.shields.io/badge/Bash-5.0%2B-orange)](https://www.gnu.org/software/bash/)
 
 **English** | [中文](README.zh-CN.md)
 
