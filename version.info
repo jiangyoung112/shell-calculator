@@ -1,3 +1,5 @@
-VERSION=2.2.1
+VERSION=2.2.2
 CHANGELOG=
-[新功能] 添加自动更新系统
+优化自动更新系统
+
+如果无法自动更新，请手动到https://github.com/jiangyoung112/shell-calculator/tree/main?tab=readme-ov-file#更新
